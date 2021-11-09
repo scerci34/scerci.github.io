@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Github sayfama hos geldiniz. 
 
 You can use the [editor on GitHub](https://github.com/scerci34/scerci.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
